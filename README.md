@@ -45,7 +45,7 @@ I built a complete AI system with these features:
 
 Here's what the trend report looks like:
 
-![Topic Trends Report](output/topics_trend_screenshot.png)
+![Topic Trends Report](output/Output.png)
 
 *Note: Take a screenshot of your HTML report (`output/topics_trend_2025-10-28.html`) and save it as `output/topics_trend_screenshot.png`*
 
